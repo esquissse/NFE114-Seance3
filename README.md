@@ -15,15 +15,15 @@ Exercice 2 :
 partie 1 : Il s'agit de réaliser un convertisseur franc --> euro, euro --> franc.
 Il y a deux zones de saisies, une pour l'euro et l'autre pour le franc, ainsi que deux boutons intitulé E -> F et F -> E.
 
-1/ L'utilisateur saisi une valeur dans l'une des zones et cliquer sur le bouton,
-2/ le javascript récupère la valeur saisie par l'utilisateur, réalise la conversion 
-3/ et affiche le résultat dans la bonne zone.
+1. L'utilisateur saisi une valeur dans l'une des zones et cliquer sur le bouton,
+2. le javascript récupère la valeur saisie par l'utilisateur, réalise la conversion 
+3. et affiche le résultat dans la bonne zone.
 
 partie 2 : Il s'agit toujours de réaliser un convertisseur franc -> euro -> franc, cependant il n'y a plus qu'une zone de saisie, un seul bouton et un lien permettant de switcher entre la conversion (F -> E // E -> F).
 
-1/ L'utilisateur saisi une valeur dans l'unique zone de saisie,
-2/ clique soit sur le bouton conversion, soit sur le lien pour changer la conversion
-3/ le javascript récupère la valeur, réalise le calcul et affiche le résultat dans un span près de la zone de saisie.
+1. L'utilisateur saisi une valeur dans l'unique zone de saisie,
+2. clique soit sur le bouton conversion, soit sur le lien pour changer la conversion
+3. le javascript récupère la valeur, réalise le calcul et affiche le résultat dans un span près de la zone de saisie.
 
 Exercice 3 :
 ------------
