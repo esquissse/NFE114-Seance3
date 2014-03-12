@@ -1,6 +1,8 @@
+var nb_ligne = 4;
+var nb_colonne = 7;
 document.addEventListener("DOMContentLoaded", function() {
-  create_table_simple(4,7);
-  create_table_image(4,7);  
+  create_table_simple(nb_ligne,nb_colonne);
+  create_table_image(nb_ligne,nb_colonne);  
 }, false);
 
 function create_table_simple(nb_ligne, nb_colonne) {
