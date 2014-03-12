@@ -1,4 +1,6 @@
-document.getElementById('lanceur_syracuse').addEventListener('click', lancer_la_suite, false);
+document.addEventListener("DOMContentLoaded", function() {
+  document.getElementById('lanceur_syracuse').addEventListener('click', lancer_la_suite, false);
+}, false);
 
 function lancer_la_suite() {
   var chiffre = document.getElementById('chiffre').value;

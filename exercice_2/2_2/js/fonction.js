@@ -1,5 +1,7 @@
-document.getElementById('changer').addEventListener('click', changer_devise, false);
-document.getElementById('convertisseur').addEventListener('click', convertir, false);
+document.addEventListener("DOMContentLoaded", function() {
+  document.getElementById('changer').addEventListener('click', changer_devise, false);
+  document.getElementById('convertisseur').addEventListener('click', convertir, false);
+}, false);
 
 function changer_devise() {
   var into_span = document.getElementById('sens_du_change');

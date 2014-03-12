@@ -1,5 +1,7 @@
-document.getElementById('franc_euro').addEventListener('click',convertir_franc_en_euro,false);
-document.getElementById('euro_franc').addEventListener('click',convertir_euro_en_franc,false);
+document.addEventListener("DOMContentLoaded", function() {
+  document.getElementById('franc_euro').addEventListener('click',convertir_franc_en_euro,false);
+  document.getElementById('euro_franc').addEventListener('click',convertir_euro_en_franc,false);
+}, false);
 
 function convertir_franc_en_euro() {
   // je récupère la valeur en franc
