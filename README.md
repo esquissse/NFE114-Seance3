@@ -7,7 +7,7 @@ Exercice 1 :
 ------------
 L'utilisateur doit entrer un chiffre dans un champ de saisie et cliquer sur le lien en dessous pour exécuter la suite de Collatz/Siracuse.
 Le javascript récupère la valeur saisie par l'utilisateur, exécute le calcul de la suite et enfin l'affiche à l'écran.
-A la fin, il faut également combien d'étape ont été nécessaire pour arriver au chiffre 1.
+A la fin, il faut afficher également combien d'étape ont été nécessaires pour arriver au chiffre 1.
 
 Exercice 2 :
 ------------
